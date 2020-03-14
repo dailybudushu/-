@@ -1,6 +1,5 @@
 # A Review on Generative Adversarial Networks
 
-    沈傅豪 email:1048532267@qq.com
 
 ## GAN的简介
 
